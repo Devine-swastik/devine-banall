@@ -1,7 +1,7 @@
 API_ID = 20481558
 API_HASH = "755306349c91cf9a5e827014ef097842"
 
-# Get this value on Telegram by /id
+# Get this value on T..elegram by /id
 OWNER_ID = 6440363814
 
 # Get your token from @BotFather on Telegram.
