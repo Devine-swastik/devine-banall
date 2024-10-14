@@ -2,7 +2,7 @@ API_ID = 20481558
 API_HASH = "755306349c91cf9a5e827014ef097842"
 
 # Get this value on Teegram by /id
-OWNER_ID = 6440363814
+OWNER_ID = 6440363818
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = "6116157753:AAE0fGeItvQx0pZpWsjaw_U7IoXe1>
